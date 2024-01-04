@@ -1,4 +1,4 @@
-### Olá👋, meu nome é João Vitor de Sousa Rodrigues
+### Hi👋, my name is João Vitor de Sousa Rodrigues
 <div align="center">
   <a href="https://github.com/JoaoVitordSRodrigues">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaovitordsrodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
