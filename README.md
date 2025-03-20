@@ -8,7 +8,8 @@
 <div align="center" style="display: flex; align-items: center; justify-beetwen">
   <img src="https://img.shields.io/static/v1?label=Overview&message=João Vitor&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 </div>
-  
+
+## ⭐ GitHub Stats
 <div align="center">
   <a href="https://github.com/JoaoVitordSRodrigues">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaovitordsrodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -16,7 +17,7 @@
   </a>
 </div>
   
-### Experiences
+## 🚀 Minhas Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -31,3 +32,15 @@
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />   
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
 </div> 
+
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
