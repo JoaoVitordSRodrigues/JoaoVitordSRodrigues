@@ -1,6 +1,7 @@
 ### Hi👋, my name is João Vitor de Sousa Rodrigues
 💻I am a Systems Development Technician. 📚Studying Systems Analysis and Development at FATEC Zona Leste.
-<img src="https://www.ntc.edu/sites/default/files/styles/full_width_16_9/public/2021-06/software-development-specialist.jpg" />
+
+<img width="160em" src="https://www.ntc.edu/sites/default/files/styles/full_width_16_9/public/2021-06/software-development-specialist.jpg" />
 
 <div align="center">
   <a href="https://github.com/JoaoVitordSRodrigues">
