@@ -1,10 +1,14 @@
 ### Hi👋, my name is João Vitor de Sousa Rodrigues
 💻I am a Systems Development Technician. 📚Studying Systems Analysis and Development at FATEC Zona Leste.
 
-<div align="center" style="display: flex; align-items: center">
-<img src="https://img.shields.io/static/v1?label=Overview&message=João Vitor&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<div align="center">
   <img width="650px" src="https://www.ntc.edu/sites/default/files/styles/full_width_16_9/public/2021-06/software-development-specialist.jpg" />
 </div>
+
+<div align="center" style="display: flex; align-items: center; justify-beetwen">
+  <img src="https://img.shields.io/static/v1?label=Overview&message=João Vitor&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+</div>
+  
 <div align="center">
   <a href="https://github.com/JoaoVitordSRodrigues">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaovitordsrodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
