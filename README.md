@@ -1,5 +1,7 @@
 ### Hi👋, my name is João Vitor de Sousa Rodrigues
 💻I am a Systems Development Technician. 📚Studying Systems Analysis and Development at FATEC Zona Leste.
+<img src="https://www.google.com/imgres?q=development%20software&imgurl=https%3A%2F%2Fblog.planview.com%2Fwp-content%2Fuploads%2F2020%2F01%2FTop-6-Software-Development-Methodologies.jpg&imgrefurl=https%3A%2F%2Fblog.planview.com%2Ftop-6-software-development-methodologies%2F&docid=qEvgYXLs-oHBRM&tbnid=e_nbP1Ju2LkrEM&vet=12ahUKEwiIwqDb5pmMAxWmLrkGHdmZIDMQM3oECG4QAA..i&w=800&h=427&hcb=2&ved=2ahUKEwiIwqDb5pmMAxWmLrkGHdmZIDMQM3oECG4QAA />
+
 <div align="center">
   <a href="https://github.com/JoaoVitordSRodrigues">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaovitordsrodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
