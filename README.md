@@ -1,11 +1,10 @@
 ### Hi👋, my name is João Vitor de Sousa Rodrigues
+Hi, my name is João Vitor de Sousa Rodrigues. 💻I am a Systems Development Technician. 📚Studying Systems Analysis and Development at FATEC Zona Leste.
 <div align="center">
   <a href="https://github.com/JoaoVitordSRodrigues">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaovitordsrodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitordsrodrigues&layout=compact&langs_count=7&theme=dark"/>
   </a>
-  <p>Cursando</p>
-  
 </div>
   
 ### Experiences
